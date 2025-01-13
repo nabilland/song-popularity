@@ -2,7 +2,7 @@
 This repository contains the source code for a simple project aimed at predicting song popularity using Spotify data. The focus is on numerical features such as energy, tempo, and danceability.
 
 ## Dataset
-The dataset used in this study is sourced from [Kaggle](https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset/data) uploaded on and contains a total of 4,381 songs, including both popular (high popularity) and less popular (low popularity) tracks.
+The dataset used in this study is sourced from [Kaggle](https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset/data). It contains a total of 4,381 songs, including both popular (high popularity) and less popular (low popularity) tracks.
 
 ## Methods
 The project explored features like energy, tempo, danceability, loudness, and valence to predict song popularity.
